@@ -5,5 +5,11 @@
   "main": "index.js",
   "repository": "git@github.com:daddou-ma/unresume.git",
   "author": "DADDOU Mohamed El Amine <mea.daddou@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "lerna": "^6.6.2"
+  },
+  "workspaces": [
+    "packages/*"
+  ]
 }
