@@ -1,0 +1,9 @@
+{
+  "name": "unresume",
+  "version": "0.0.1",
+  "description": "Hack your Resume",
+  "main": "index.js",
+  "repository": "git@github.com:daddou-ma/unresume.git",
+  "author": "DADDOU Mohamed El Amine <mea.daddou@gmail.com>",
+  "license": "MIT"
+}
